@@ -10,4 +10,4 @@ Bạn có thể tạo ứng dụng bằng cách làm theo các bước trong [m�
 ## Tải xuống
 
 Tải xuống [dự án đã hoàn thành](https://github.com/Mikeofsmile/Students_Management) từ GitHub bằng cách tải xuống hoặc sao chép [aspnet/Docs repository](https://github.com/aspnet/Docs) và điều hướng đến `aspnetcore\data\ef-mvc\intro\samples\cu-FINAL` trong hệ thống tệp cục bộ của bạn. Sau khi tải xuống dự án, hãy tạo cơ sở dữ liệu bằng cách nhập `dotnet ef database update` tại dấu nhắc dòng lệnh. Thay vào đó, bạn có thể sử dụng **Bảng điều khiển quản lý gói** -- để biết thêm thông tin, hãy xem [Giao diện dòng lệnh (CLI) so với Bảng điều khiển quản lý gói (PMC)](https://docs.microsoft.com/aspnet/ core/data/ef-mvc/migrations#command-line-interface-cli-vs-package-manager-console-pmc).
-link của sản phẩm :http://localhost:7616/
+link của sản phẩm : (http://localhost:7616/)
